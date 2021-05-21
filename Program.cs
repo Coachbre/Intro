@@ -10,10 +10,17 @@ string initials = firstName[0] + " " + lastName[0];
 Console.WriteLine(initials);
 */
 
+
+
+
 // for (int num = 10; num >= 1; num--) 
 // {
 //     Console.WriteLine(num);
 // }
+
+
+
+
 
 /* System.Console.Write("Who would you like to say hello to? ");
 
